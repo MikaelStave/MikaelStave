@@ -1,6 +1,6 @@
 # Hi there, I'm Mikael 👋
 
-I'm a Frontend Developer from Stavanger, currently working at Kabal. I'm passionate about web technologies and love to explore new technologies and leverage them to solve real-life problems✨.
+I'm a Fullstack-developer from Stavanger, currently working at Kabal. I'm passionate about web technologies and love to explore new technologies and leverage them to solve real-life problems ✨
 
 ## ⚡ Tech Stack
 
