@@ -11,13 +11,8 @@ Here are a few things I've picked up along my learning journey.
 ## 🌱 I’m currently learning ...
 
 * REST API
-* Django DRF
+* Django Ninja
 * Svelte
-
-## 🎯 2023 Goals
-
-* Improve my coding and problem-solving skills
-* Get more familiar with Full Stack Development
 
 
 ## 📫 How to reach me
